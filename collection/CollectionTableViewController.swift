@@ -36,5 +36,5 @@ class CollectionTableViewController: UITableViewController {
 	
 
 	// MARK: - Properties
-	let list = ["giraffe","elephant","sea urchin"]
+	let list = ["giraffe","elephant","sea urchin", "mars bacteria 1", "mars bacteria 2","mars bacteria 3"]
 }
